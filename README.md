@@ -28,6 +28,6 @@ Instruction for completing each homework is in the corresponding notebook.
 
 This applies to all other homeworks in the `assignments` directory
 
-- Launch jupyter notebook, and complete the tasks in each homework in the `assignments` directory
+- Launch jupyter notebook, and complete the tasks for each homework in the `assignments` directory
 
 `jupyter notebook`
