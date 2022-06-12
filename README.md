@@ -31,3 +31,4 @@ This applies to all other homeworks in the `assignments` directory
 - Launch jupyter notebook, and complete the tasks for each homework in the `assignments` directory
 
 `jupyter notebook`
+omolola changed code writeup
